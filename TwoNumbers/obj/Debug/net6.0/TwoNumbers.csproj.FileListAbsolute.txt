@@ -1,0 +1,15 @@
+D:\c#\TwoNumbers\bin\Debug\net6.0\TwoNumbers.exe
+D:\c#\TwoNumbers\bin\Debug\net6.0\TwoNumbers.deps.json
+D:\c#\TwoNumbers\bin\Debug\net6.0\TwoNumbers.runtimeconfig.json
+D:\c#\TwoNumbers\bin\Debug\net6.0\TwoNumbers.dll
+D:\c#\TwoNumbers\bin\Debug\net6.0\TwoNumbers.pdb
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.csproj.AssemblyReference.cache
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.AssemblyInfoInputs.cache
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.AssemblyInfo.cs
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.csproj.CoreCompileInputs.cache
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.dll
+D:\c#\TwoNumbers\obj\Debug\net6.0\refint\TwoNumbers.dll
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.pdb
+D:\c#\TwoNumbers\obj\Debug\net6.0\TwoNumbers.genruntimeconfig.cache
+D:\c#\TwoNumbers\obj\Debug\net6.0\ref\TwoNumbers.dll
