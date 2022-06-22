@@ -1,0 +1,15 @@
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.csproj.AssemblyReference.cache
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.AssemblyInfoInputs.cache
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.AssemblyInfo.cs
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.csproj.CoreCompileInputs.cache
+D:\c#\Hello_User\bin\Debug\net6.0\Hello_User.exe
+D:\c#\Hello_User\bin\Debug\net6.0\Hello_User.deps.json
+D:\c#\Hello_User\bin\Debug\net6.0\Hello_User.runtimeconfig.json
+D:\c#\Hello_User\bin\Debug\net6.0\Hello_User.dll
+D:\c#\Hello_User\bin\Debug\net6.0\Hello_User.pdb
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.dll
+D:\c#\Hello_User\obj\Debug\net6.0\refint\Hello_User.dll
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.pdb
+D:\c#\Hello_User\obj\Debug\net6.0\Hello_User.genruntimeconfig.cache
+D:\c#\Hello_User\obj\Debug\net6.0\ref\Hello_User.dll
