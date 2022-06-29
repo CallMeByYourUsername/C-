@@ -7,5 +7,7 @@ if (number > 99 )
    string str = number.ToString();
    Console.WriteLine(str[2]);
 }
-else 
+else
+{ 
 Console.WriteLine("You don't have the third number");
+}
