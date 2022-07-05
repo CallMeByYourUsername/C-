@@ -1,0 +1,15 @@
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.csproj.AssemblyReference.cache
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.AssemblyInfoInputs.cache
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.AssemblyInfo.cs
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.csproj.CoreCompileInputs.cache
+D:\c#\Homework4.27\bin\Debug\net6.0\Homework4.27.exe
+D:\c#\Homework4.27\bin\Debug\net6.0\Homework4.27.deps.json
+D:\c#\Homework4.27\bin\Debug\net6.0\Homework4.27.runtimeconfig.json
+D:\c#\Homework4.27\bin\Debug\net6.0\Homework4.27.dll
+D:\c#\Homework4.27\bin\Debug\net6.0\Homework4.27.pdb
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.dll
+D:\c#\Homework4.27\obj\Debug\net6.0\refint\Homework4.27.dll
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.pdb
+D:\c#\Homework4.27\obj\Debug\net6.0\Homework4.27.genruntimeconfig.cache
+D:\c#\Homework4.27\obj\Debug\net6.0\ref\Homework4.27.dll
