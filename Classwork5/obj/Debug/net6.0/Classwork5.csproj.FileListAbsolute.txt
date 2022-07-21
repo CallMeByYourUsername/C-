@@ -1,0 +1,15 @@
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.csproj.AssemblyReference.cache
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.AssemblyInfoInputs.cache
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.AssemblyInfo.cs
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.csproj.CoreCompileInputs.cache
+D:\c#\Classwork5\bin\Debug\net6.0\Classwork5.exe
+D:\c#\Classwork5\bin\Debug\net6.0\Classwork5.deps.json
+D:\c#\Classwork5\bin\Debug\net6.0\Classwork5.runtimeconfig.json
+D:\c#\Classwork5\bin\Debug\net6.0\Classwork5.dll
+D:\c#\Classwork5\bin\Debug\net6.0\Classwork5.pdb
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.dll
+D:\c#\Classwork5\obj\Debug\net6.0\refint\Classwork5.dll
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.pdb
+D:\c#\Classwork5\obj\Debug\net6.0\Classwork5.genruntimeconfig.cache
+D:\c#\Classwork5\obj\Debug\net6.0\ref\Classwork5.dll
