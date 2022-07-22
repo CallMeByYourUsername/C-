@@ -1,0 +1,15 @@
+D:\c#\Classwork8\bin\Debug\net6.0\Classwork8.exe
+D:\c#\Classwork8\bin\Debug\net6.0\Classwork8.deps.json
+D:\c#\Classwork8\bin\Debug\net6.0\Classwork8.runtimeconfig.json
+D:\c#\Classwork8\bin\Debug\net6.0\Classwork8.dll
+D:\c#\Classwork8\bin\Debug\net6.0\Classwork8.pdb
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.csproj.AssemblyReference.cache
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.AssemblyInfoInputs.cache
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.AssemblyInfo.cs
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.csproj.CoreCompileInputs.cache
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.dll
+D:\c#\Classwork8\obj\Debug\net6.0\refint\Classwork8.dll
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.pdb
+D:\c#\Classwork8\obj\Debug\net6.0\Classwork8.genruntimeconfig.cache
+D:\c#\Classwork8\obj\Debug\net6.0\ref\Classwork8.dll
