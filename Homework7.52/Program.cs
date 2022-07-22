@@ -42,7 +42,7 @@ void AverageNumber(int[ , ] mtrxNew)
     {   
         for (int i = 0; i < mtrxNew.GetLength(0); i++)
         {   
-            sum =+ mtrxNew[i,j];
+            sum += mtrxNew[i,j];
         }
      average = sum / mtrxNew.GetLength(0); 
      Console.WriteLine($"Average of the column is {Math.Round(average, 2)}");
