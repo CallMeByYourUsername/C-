@@ -1,0 +1,15 @@
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.csproj.AssemblyReference.cache
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.AssemblyInfoInputs.cache
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.AssemblyInfo.cs
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.csproj.CoreCompileInputs.cache
+D:\c#\Homework9.66\bin\Debug\net6.0\Homework9.66.exe
+D:\c#\Homework9.66\bin\Debug\net6.0\Homework9.66.deps.json
+D:\c#\Homework9.66\bin\Debug\net6.0\Homework9.66.runtimeconfig.json
+D:\c#\Homework9.66\bin\Debug\net6.0\Homework9.66.dll
+D:\c#\Homework9.66\bin\Debug\net6.0\Homework9.66.pdb
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.dll
+D:\c#\Homework9.66\obj\Debug\net6.0\refint\Homework9.66.dll
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.pdb
+D:\c#\Homework9.66\obj\Debug\net6.0\Homework9.66.genruntimeconfig.cache
+D:\c#\Homework9.66\obj\Debug\net6.0\ref\Homework9.66.dll
