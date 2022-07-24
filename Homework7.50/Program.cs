@@ -27,14 +27,15 @@ void CheckMatrix(int[,] matrix, int n, int m)
   {
     for (int j = 0; j < matrix.GetLength(1); j++)
     {
-        if (matrix[i, j] == matrix[n, m])
+        //if (matrix[i, j] == matrix[n, m])
+        if(i >= n && j >= m)
         {
-        Console.Write($"value of elements on position row {n} and column {m}= {matrix[n - 1, m - 1]}");
+        Console.Write(matrix[n - 1, m - 1]);
         }
-        else 
+       /* else 
         {
             Console.WriteLine("There is no such element");
-        }
+        }*/
     }
   }
 }
@@ -54,6 +55,6 @@ void PrintMatrix(int[,] mtrx) // печатаем массив
 int [ , ] result = GetMatrix(3, 4, 1, 20);
 PrintMatrix(result);
 Console.WriteLine();
-CheckMatrix(result, 3, 3);
+CheckMatrix(result, 3, 1);
 
 

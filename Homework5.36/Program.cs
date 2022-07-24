@@ -1,7 +1,7 @@
 ﻿//Задайте одномерный массив, заполненный случайными числами. 
 //Найдите сумму элементов, стоящих на нечётных позициях.
 
-int [] array = new int [3];
+int [] array = new int [33];
 Random rand = new Random();
 for (int i =0; i < array.Length; i++)
 array [i] = rand.Next(200);

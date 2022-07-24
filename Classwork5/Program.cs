@@ -1,22 +1,29 @@
-﻿/*Задача 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
-
-m = 3, n = 4.
-
-0,5 7 -2 -0,2
-
-1 -3,3 8 -9,9
-
-8 7,8 -7,1 9*/
-
-double[,] matrix = new double[3, 4];
-var rnd = new Random();
-for (int i = 0; i < 3; i++)
+﻿//Создаю двумерный массив с помощью функции, элемент массива A[m,n] = m + n
+int [ , ] GetMatrix(int m, int n)
 {
-    for (int j = 0; j < 4; j++)
+    int[,] matrix = new int[m, n];
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        matrix[i, j] = rnd.NextDouble() * 100;
-        Console.Write("{0,6:F2}", matrix[i, j]);
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            matrix[i,j] = i + j;
+        }
+
     }
-    Console.WriteLine();
+    return matrix;
 }
 
+void PrintMatrix (int [,] mtrx)
+{
+for (int i = 0; i < mtrx.GetLength(0); i++)
+    {
+        for (int j = 0; j < mtrx.GetLength(1); j++)
+        {
+           Console.Write(mtrx[i,j] + "\t");
+        }
+        Console.WriteLine();
+    }
+}
+
+int [ , ] result = GetMatrix(3, 4);
+PrintMatrix(result);
